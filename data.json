@@ -109,7 +109,7 @@
   ],
   "centerIsland": {
     "id": "hub",
-    "name": "七賢大樓",
+    "name": "銓禾企業有限公司",
     "englishName": "CENTRAL DATA HUB",
     "badge": "核心中樞 • 放射連通六島",
     "color": "#2563eb",
@@ -132,23 +132,23 @@
     ],
     "sections": [
       {
-        "title": "專案背景與核心定位",
-        "content": "本平台以空間化群島隱喻複雜的資料架構，訪客可操作專屬小人沿著放射狀與環狀木橋自由穿梭，逐一檢視各主題領域的詳細介紹。"
+        "title": "電話",
+        "content": "(07)375-7829（黃先生）"
       },
       {
-        "title": "全域資料治理標準",
-        "content": "建立統一的詮釋資料（Metadata）目錄、版本追蹤機制與自動化品質檢核管線，確保所有衛星島嶼的資訊即時同步且可追溯。"
+        "title": "手機",
+        "content": "0908-659218・0960-660153"
       },
       {
-        "title": "外接 data.json 輕鬆維護",
-        "content": "所有島嶼名稱、介紹段落與指標數據皆獨立抽離於 data.json 檔案中，無需修改任何 3D 程式碼即可隨時擴充更新。"
+        "title": "地址",
+        "content": "高雄市仁武區仁心路199巷77弄19-3號"
       }
     ]
   },
   "satelliteIslands": [
     {
       "id": "island_1",
-      "name": "資料採集與感知島",
+      "name": "CNC臥式搪銑床",
       "englishName": "DATA INGESTION",
       "badge": "第一主題島 • 五邊形",
       "color": "#10b981",
@@ -183,7 +183,7 @@
     },
     {
       "id": "island_2",
-      "name": "結構治理與倉儲島",
+      "name": "傳統臥式搪銑床",
       "englishName": "DATA WAREHOUSE",
       "badge": "第二主題島 • 五邊形",
       "color": "#f59e0b",
@@ -218,7 +218,7 @@
     },
     {
       "id": "island_3",
-      "name": "智慧分析與模型島",
+      "name": "各類機械母機零組件加工",
       "englishName": "AI & ANALYTICS",
       "badge": "第三主題島 • 五邊形",
       "color": "#8b5cf6",
@@ -253,7 +253,7 @@
     },
     {
       "id": "island_4",
-      "name": "視覺呈現與敘事島",
+      "name": "精密搪孔・鑽孔",
       "englishName": "VISUAL STORYTELLING",
       "badge": "第四主題島 • 五邊形",
       "color": "#ec4899",
@@ -288,7 +288,7 @@
     },
     {
       "id": "island_5",
-      "name": "開放接口與共享島",
+      "name": "攻牙・銑削",
       "englishName": "OPEN API & SHARING",
       "badge": "第五主題島 • 五邊形",
       "color": "#06b6d4",
@@ -323,7 +323,7 @@
     },
     {
       "id": "island_6",
-      "name": "應用實績與藍圖島",
+      "name": "開發中",
       "englishName": "IMPACT & ROADMAP",
       "badge": "第六主題島 • 五邊形",
       "color": "#f97316",
